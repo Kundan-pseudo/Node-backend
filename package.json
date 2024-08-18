@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4",
+    "zod": "^3.23.8"
+  },
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "Learning Sumation",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kundan Seal",
+  "license": "ISC"
+}
